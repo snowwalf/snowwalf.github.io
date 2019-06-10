@@ -1,18 +1,22 @@
 ---
-title: Why Blog
+title: Snowwalf Blog
 layout: post
+comments: false
 ---
 
-## 对博客的理解
+## 偷得浮生半日闲,心情半佛半神仙
 
-我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
+---
 
-通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
+### 工作经历
+- [七牛云](http://www.qiniu.com)： 高级软件研发工程师 - 富媒体云计算 
+- EMC上海： 软件研发工程师 - 云存储
 
-分类有助于我们对信息的隔离，例如我把自己的记录分成这几类：技术、工具、资源、生活、读书和旅游。这是我生活重中最重要的几个类别，我希望把自己的一些心得和尝试写在相应分类中。
 
-## 博客平台
+### 联系方式
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+github: [https://github.com/snowwalf](https://github.com/snowwalf)
 
-我博客的源码托管在[Github](https://github.com/suyan/suyan.github.io)上，如果有任何改进意见，欢迎讨论。
+微博: [http://weibo.com/u/2367967014](http://weibo.com/u/2367967014)
+
+邮箱: [zhj88523@gmail.com](mailto:zhj88523@gmail.com) 
