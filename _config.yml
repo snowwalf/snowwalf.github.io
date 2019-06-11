@@ -2,7 +2,7 @@
 title: 浮生半日闲
 email: zhj88523@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  snowwalf blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://blog.snowwalf.com # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
@@ -18,7 +18,7 @@ recent_num: 20
 weibo: 2367967014
 github: snowwalf
 #instagram: suyan0830
-linkedin: suyan0830
+#linkedin: suyan0830
 
 # avatar and Favicon
 avatar: http://ww1.sinaimg.cn/large/8d244f26gy1g3wh8fwl8mj207005cjrc.jpg 
