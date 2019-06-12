@@ -21,7 +21,7 @@ github: snowwalf
 #linkedin: suyan0830
 
 # avatar and Favicon
-avatar: http://ww1.sinaimg.cn/large/8d244f26gy1g3wh8fwl8mj207005cjrc.jpg 
+avatar: /assets/img/avatar.jpg 
 favicon: http://ww1.sinaimg.cn/large/8d244f26gy1g3whb2dckdj200w00w0ay.jpg
 
 # disqus config
@@ -47,6 +47,3 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
-
-theme: jekyll-theme-cayman
