@@ -10,16 +10,23 @@ layout: default
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
+  <!-- CloudMusic -->
+  {% if page.music != null %}    <!-- 不知道什么bug得加个空格才显示，“{ %”之间的空格需要删除 -->
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 loop="loop"
+    src="//music.163.com/outchain/player?type=2&id={{ page.music }}&auto=1&height=32"></iframe>
+  {% endif %} 
   {{ content }}
 </article>
 
-<div class="post-share">
-  <div class="container">
-    <a href="https://twitter.com/share?url={{ page.url | prepend: site.baseurl | prepend: site.url }}&text={{ page.title }}" target="_blank" class="post-share-icon twitter"></a>
-    <a href="https://www.evernote.com/clip.action?url={{ page.url | prepend: site.baseurl | prepend: site.url }}&title={{ page.title }}" target="_blank" class="post-share-icon evernote"></a>
-    <a href="http://service.weibo.com/share/share.php?url={{ page.url | prepend: site.baseurl | prepend: site.url }}&title={{ page.title }}" target="_blank" class="post-share-icon weibo"></a>
+<!-- <div class="reward">
+  <div class="contactme">打赏 <span class="reward-code">
+    <span class="wechat-code"> <img class="wechat-img wdp-appear" src="/assets/img/social/Wechatspeed.jpg"><b>微信打赏</b> </span> </span>
   </div>
-</div>
+  <p class="reward-notice">您的打赏是对我最大的鼓励！</p>
+</div> -->
+<!-- <div class="post-share">
+  <a onclick="dashangToggle()" class="" title="打赏作者" style="text-decoration:none;" href="javascript:void(0)">打赏</a>
+</div> -->
 
 {% if site.disqus.shortname %}
 <div class="comment container">
