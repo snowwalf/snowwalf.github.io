@@ -47,3 +47,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-mermaid
+
+mermaid:
+  src: /assets/js/mermaid.js
