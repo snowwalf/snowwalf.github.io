@@ -9,7 +9,8 @@ comments: false
 ---
 
 ### 工作经历
-- [七牛云](http://www.qiniu.com)： 高级软件研发工程师 - 富媒体云计算 
+- 拼多多：资深研发工程师 - paas中台
+- [七牛云](http://www.qiniu.com)： 高级软件研发工程师 - 富媒体云计算/机器视觉服务化
 - EMC上海： 软件研发工程师 - 云存储
 
 
@@ -19,4 +20,4 @@ github: [https://github.com/snowwalf](https://github.com/snowwalf)
 
 微博: [http://weibo.com/u/2367967014](http://weibo.com/u/2367967014)
 
-邮箱: [zhj88523@gmail.com](mailto:zhj88523@gmail.com) 
+邮箱: [zhj88523@gmail.com](mailto:zhj88523@gmail.com)
