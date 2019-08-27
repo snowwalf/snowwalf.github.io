@@ -50,4 +50,4 @@ plugins:
   - jekyll-mermaid
 
 mermaid:
-  src: /assets/js/mermaid.js
+  src: /assets/js/mermaid.min.js
